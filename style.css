@@ -1,10 +1,9 @@
 
 	    
-  @import url(https://fonts.googleapis.com/css?family=Bebas+Neue);
-
-  body{
-	 font-family: 'Bebas Neue';
-  }    
+@font-face {
+	font-family: Bebas Neue;
+	src: url(https://fonts.gstatic.com/s/bebasneue/v2/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2)
+}    
 	    
 	    
 	.titu {    
