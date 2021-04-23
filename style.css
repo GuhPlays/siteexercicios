@@ -1,9 +1,6 @@
 
 	    
-@font-face {
-	font-family: Bebas Neue;
-	src: url(https://fonts.gstatic.com/s/bebasneue/v2/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2)
-}    
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');  
 	    
 	    
 	.titu {    
