@@ -1,6 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-
+body{
+	 font-family: 'Bebas Neue',serif;
+  }
 	    
 	.titu {    
 		background-color: #4D194D;
