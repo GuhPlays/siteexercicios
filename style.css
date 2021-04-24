@@ -1,8 +1,8 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 body{
-	 font-family: 'Bebas Neue',serif;
-  }
+	 font-family: 'Bebas Neue',cursive;
+     font-style: normal;
+  }	
 	    
 	.titu {    
 		background-color: #4D194D;
@@ -13,7 +13,7 @@ body{
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		
+		font-weight: lighter;
 		
 	}
 
@@ -55,7 +55,6 @@ body{
 		color: black;
 		background-color: #ffadd3;
 		font-size: 20px;
-		font-weight: bold;
 		border: 3px solid #4D194D;
 	}
 
