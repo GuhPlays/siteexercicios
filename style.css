@@ -1,4 +1,6 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 	    
 	.titu {    
 		background-color: #4D194D;
@@ -100,11 +102,7 @@ footer {
     100%{background-position:0% 50%}
 }
   
-@import url(https://fonts.googleapis.com/css?family=Bebas+Neue);
 
-  body{
-	 font-family: 'Bebas Neue',serif;
-  }
 
 ::-webkit-scrollbar {
 	width: 10px; 
